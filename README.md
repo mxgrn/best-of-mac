@@ -1,37 +1,37 @@
 # Best macOS apps per category, opinionated
 
-## Time tracking and invoicing
+### Time tracking and invoicing
 
 - [Tyme](https://www.tyme-app.com/en/)
 
-## Terminal
+### Terminal
 
 - [Alacritty](https://github.com/alacritty/alacritty)
 
-## Outliner
+### Outliner
 
 - [TaskPaper](https://www.taskpaper.com/)
 
-## Automation
+### Automation
 
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 
-## Postgres client
+### Postgres client
 
 - [Postico](https://eggerapps.at/postico/)
 
-## Git client (terminal)
+### Git client (terminal)
 
 - [Lazygit](https://github.com/jesseduffield/lazygit)
 
-## Mail client
+### Mail client
 
 - [MailMate](https://freron.com/)
 
-## Personal knowledge base
+### Personal knowledge base
 
 - [Obsidian](https://obsidian.md/)
 
-## Screenshots
+### Screenshots
 
 - [Shottr](https://shottr.cc/)
