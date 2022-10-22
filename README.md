@@ -28,6 +28,10 @@
 
 - [MailMate](https://freron.com/)
 
+### RSS client
+
+- [ReadKit](https://readkit.app/)
+
 ### Personal knowledge base
 
 - [Obsidian](https://obsidian.md/)
