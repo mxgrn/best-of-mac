@@ -10,6 +10,7 @@
 
 ### Outliner
 
+- [Logseq](https://logseq.com/)
 - [TaskPaper](https://www.taskpaper.com/)
 
 ### Automation
