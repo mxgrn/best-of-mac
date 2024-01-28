@@ -8,11 +8,6 @@
 
 - [Alacritty](https://github.com/alacritty/alacritty)
 
-### Outliner
-
-- [Logseq](https://logseq.com/)
-- [TaskPaper](https://www.taskpaper.com/)
-
 ### Automation
 
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
@@ -20,10 +15,6 @@
 ### Postgres client
 
 - [Postico](https://eggerapps.at/postico/)
-
-### Git client (terminal)
-
-- [Lazygit](https://github.com/jesseduffield/lazygit)
 
 ### Mail client
 
