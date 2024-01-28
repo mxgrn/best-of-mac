@@ -39,4 +39,4 @@
 
 ### Screenshots
 
-- [Shottr](https://shottr.cc/)
+- [Xnip](https://apps.apple.com/us/app/xnip-screenshot-annotation/id1221250572)
