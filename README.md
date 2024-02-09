@@ -1,33 +1,34 @@
 # Best macOS apps per category, opinionated
 
-### Time tracking and invoicing
+## Time tracking and invoicing
 
 - [Tyme](https://www.tyme-app.com/en/)
+- [Pandan](https://sindresorhus.com/pandan) - minimalistic time-awareness app
 
-### Terminal
+## Terminal
 
 - [Alacritty](https://github.com/alacritty/alacritty)
 
-### Automation
+## Automation
 
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 
-### Postgres client
+## Postgres client
 
 - [Postico](https://eggerapps.at/postico/)
 
-### Mail client
+## Mail client
 
 - [MailMate](https://freron.com/)
 
-### RSS client
+## RSS client
 
 - [ReadKit](https://readkit.app/)
 
-### Personal knowledge base
+## Personal knowledge base
 
 - [Obsidian](https://obsidian.md/)
 
-### Screenshots
+## Screenshots
 
 - [Xnip](https://apps.apple.com/us/app/xnip-screenshot-annotation/id1221250572)
