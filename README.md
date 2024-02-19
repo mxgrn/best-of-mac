@@ -4,6 +4,7 @@
 
 - [Tyme](https://www.tyme-app.com/en/)
 - [Pandan](https://sindresorhus.com/pandan) - minimalistic time-awareness app
+- [iSmartClock](https://apps.apple.com/ua/app/ismartclock/id706803884?mt=12) - nice minimalist desktop clock for Mac
 
 ## Terminal
 
