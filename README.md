@@ -35,3 +35,7 @@
 ## Screenshots
 
 - [Xnip](https://apps.apple.com/us/app/xnip-screenshot-annotation/id1221250572)
+
+## Battery health
+
+- [AlDente](https://apphousekitchen.com/) -- prevents battery from charging to 100%
