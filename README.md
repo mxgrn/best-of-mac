@@ -1,4 +1,4 @@
-# Best macOS apps per category, opinionated
+# My favorite macOS apps
 
 ## Time tracking and invoicing
 
