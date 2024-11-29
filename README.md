@@ -43,3 +43,7 @@
 ## Multi-display support
 
 - [AutoRaise](https://github.com/sbmpost/AutoRaise) (*experimental*) -- auto-focus the window following the mouse; when moving the mouse to another display restores the intiutive behavior, when no additinal click to focuse the window is any longer required.
+
+## Audio
+
+- [eqMac](https://eqmac.app/) -- I use it to get the best out of my MBP's speakers, and the free version is perfectly enough for that.
