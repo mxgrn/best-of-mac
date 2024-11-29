@@ -48,5 +48,4 @@ Very opinionated list of best macOS apps. I use these daily after considering a 
 
 ## Multi-display support
 
-- [AutoRaise](https://github.com/sbmpost/AutoRaise) (*experimental*) -- auto-focus the window following the mouse; when moving the mouse to another display restores the intiutive behavior, when no additinal click to focuse the window is any longer required.
-
+- [AutoRaise](https://github.com/sbmpost/AutoRaise) (Experimental) — Automatically focuses the window under the mouse pointer. When moving the mouse to another display, it restores intuitive behavior by eliminating the need for an additional click to focus the window.
