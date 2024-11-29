@@ -1,8 +1,10 @@
 # My favorite macOS apps
 
-## Time tracking and invoicing
+Very opinionated list of best macOS apps. I use these daily after considering a bunch of alternatives.
 
-- [Tyme](https://www.tyme-app.com/en/) - very polished app for tracking time and putting up simple invoices
+## Time tracking and utils
+
+- [Tyme](https://www.tyme-app.com/en/) - very polished app for tracking time and putting up basic invoices
 - [WakaTime](https://wakatime.com/) - automatic time tracking when no invocing is needed, integrates with NeoVim
 - [Pandan](https://sindresorhus.com/pandan) - minimalistic "time awareness" app (reminds to have a break)
 - [iSmartClock](https://apps.apple.com/ua/app/ismartclock/id706803884?mt=12) - nice minimalist desktop clock for Mac
@@ -40,10 +42,11 @@
 
 - [AlDente](https://apphousekitchen.com/) -- prevents battery from charging to 100%
 
+## Audio
+
+- [eqMac](https://eqmac.app/) -- I use it to get the best out of my MBP's speakers, and the free version is perfectly enough for that.
+
 ## Multi-display support
 
 - [AutoRaise](https://github.com/sbmpost/AutoRaise) (*experimental*) -- auto-focus the window following the mouse; when moving the mouse to another display restores the intiutive behavior, when no additinal click to focuse the window is any longer required.
 
-## Audio
-
-- [eqMac](https://eqmac.app/) -- I use it to get the best out of my MBP's speakers, and the free version is perfectly enough for that.
