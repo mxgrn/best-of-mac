@@ -41,11 +41,3 @@ Very opinionated list of best macOS apps. I use these daily after considering a 
 ## Battery health
 
 - [AlDente](https://apphousekitchen.com/) -- prevents battery from charging to 100%
-
-## Audio
-
-- [eqMac](https://eqmac.app/) -- I use it to get the best out of my MBP's speakers, and the free version is perfectly enough for that.
-
-## Multi-display support
-
-- [AutoRaise](https://github.com/sbmpost/AutoRaise) (Experimental) — Automatically focuses the window under the mouse pointer. When moving the mouse to another display, it restores intuitive behavior by eliminating the need for an additional click to focus the window.
