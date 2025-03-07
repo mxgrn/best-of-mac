@@ -11,7 +11,7 @@ Very opinionated list of best macOS apps. I use these daily after considering a 
 
 ## Terminal
 
-- [Alacritty](https://github.com/alacritty/alacritty)
+- [Ghostty](https://ghostty.org/) - a terminal with a much better macOS support than, say, Alacritty (my previous go-to terminal); check out my [config](https://github.com/mxgrn/dotfiles/blob/master/.config/ghostty/config)
 
 ## Automation
 
