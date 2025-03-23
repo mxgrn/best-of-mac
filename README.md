@@ -45,3 +45,7 @@ Very opinionated list of best macOS apps. I use these daily after considering a 
 ## Menu bar
 
 - [Ice](https://github.com/jordanbaird/Ice) -- a polished open-source alternative to Bartender (which, beside being a paid app, started crashing way too often)
+
+## Monitoring
+
+- [Stats](https://github.com/exelban/stats) -- open-source menu bar utils to monitor system activity
