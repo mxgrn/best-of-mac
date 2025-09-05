@@ -40,11 +40,11 @@ Very opinionated list of best macOS apps. I use these daily after considering a 
 
 ## Screenshots
 
-- [CleanShot X](https://cleanshot.com)
+- [CleanShot X](https://cleanshot.com) (included with [Setapp](https://go.setapp.com/invite/bchuvwnh))
 
 ## Battery health
 
-- [AlDente](https://apphousekitchen.com/) -- prevents battery from charging to 100%
+- [AlDente](https://apphousekitchen.com/) -- prevents battery from charging to 100% (included with [Setapp](https://go.setapp.com/invite/bchuvwnh))
 
 ## Menu bar
 
@@ -53,3 +53,7 @@ Very opinionated list of best macOS apps. I use these daily after considering a 
 ## Monitoring
 
 - [Stats](https://github.com/exelban/stats) -- open-source menu bar utils to monitor system activity
+
+## Offline Documentation
+
+- [Dash](https://kapeli.com/dash) (included with [Setapp](https://go.setapp.com/invite/bchuvwnh))
