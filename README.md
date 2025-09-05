@@ -20,7 +20,7 @@ Very opinionated list of best macOS apps. I use these daily after considering a 
 ## Automation
 
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
-- BetterTouchTool
+- BetterTouchTool (included with [Setapp](https://go.setapp.com/invite/bchuvwnh))
 
 ## Postgres client
 
