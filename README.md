@@ -4,7 +4,7 @@ Very opinionated list of best macOS apps. I use these daily after considering a 
 
 ## Application Launcher
 
-- [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - tried so many times to switch over to something else, but always came back; not ideal, but still might be the best
+- [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - tried so many times to switch over to something else (except for paid Alfred), but always came back; not perfect, but still might be the best
 
 ## Time tracking and utils
 
