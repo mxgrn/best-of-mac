@@ -2,6 +2,10 @@
 
 Very opinionated list of best macOS apps. I use these daily after considering a bunch of alternatives.
 
+## Application Launcher
+
+- [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - tried so many times to switch over to something else, but always came back; not ideal, but still might be the best
+
 ## Time tracking and utils
 
 - [Tyme](https://www.tyme-app.com/en/) - very polished app for tracking time and putting up basic invoices
@@ -36,7 +40,7 @@ Very opinionated list of best macOS apps. I use these daily after considering a 
 
 ## Screenshots
 
-- [Xnip](https://apps.apple.com/us/app/xnip-screenshot-annotation/id1221250572)
+- [CleanShot X](https://cleanshot.com)
 
 ## Battery health
 
