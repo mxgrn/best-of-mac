@@ -9,7 +9,6 @@ Very opinionated list of best macOS apps. I use these daily after considering a 
 ## Time tracking and utils
 
 - [Tyme](https://www.tyme-app.com/en/) - very polished app for tracking time and putting up basic invoices
-- [WakaTime](https://wakatime.com/) - automatic time tracking when no invocing is needed, integrates with NeoVim
 - [Pandan](https://sindresorhus.com/pandan) - minimalistic "time awareness" app (reminds to have a break)
 - [iSmartClock](https://apps.apple.com/ua/app/ismartclock/id706803884?mt=12) - nice minimalist desktop clock for Mac
 
