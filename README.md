@@ -1,6 +1,8 @@
 # My favorite macOS apps
 
-Very opinionated list of best macOS apps. I use these daily after considering a bunch of alternatives.
+Very opinionated list of best macOS apps. I use these daily, usually after considering and trying out a bunch of alternatives.
+
+Disclaimer: Links to Setapp are affiliate links.
 
 ## Application Launcher
 
