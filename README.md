@@ -49,7 +49,7 @@ Disclaimer: Links to Setapp are affiliate links.
 
 ## Menu bar
 
-- [Ice](https://github.com/jordanbaird/Ice) -- a polished open-source alternative to Bartender (which, beside being a paid app, started crashing way too often)
+- [Bartender](https://www.macbartender.com/) (included with [Setapp](https://go.setapp.com/invite/bchuvwnh))
 
 ## Monitoring
 
