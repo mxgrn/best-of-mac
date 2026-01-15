@@ -39,9 +39,9 @@ Disclaimer: Links to Setapp are affiliate links.
 
 - [Obsidian](https://obsidian.md/)
 
-## Screenshots
+## Screenshots and annotations
 
-- [CleanShot X](https://cleanshot.com) (included with [Setapp](https://go.setapp.com/invite/bchuvwnh))
+- [Shottr](https://shottr.cc/)
 
 ## Battery health
 
